@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/kamehameha-vs-galick-animated.svg" alt="Goku Kamehameha contra Vegeta Galick Ho — choque animado" />
+<img width="100%" src="./assets/goku-vegeta-midair-animated.svg" alt="Goku e Vegeta — colisão aérea animada" />
 
 # 🐉 Olá, eu sou o Matteus!
 
