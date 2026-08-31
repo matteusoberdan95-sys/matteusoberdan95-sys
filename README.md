@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/vegeta-super-saiyan-banner.png" alt="Vegeta Super Saiyajin — perfil de Matteus Oberdan" />
+<img width="100%" src="./assets/vegeta-profile-banner-v2.jpg" alt="Vegeta Super Saiyajin — perfil de Matteus Oberdan" />
 
 # 🐉 Olá, eu sou o Matteus!
 
@@ -61,8 +61,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matteusoberdan95-sys&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteusoberdan95-sys&layout=compact&langs_count=8&theme=great-gatsby&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteusoberdan95-sys&theme=great-gatsby&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
