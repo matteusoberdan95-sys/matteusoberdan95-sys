@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/vegeta-profile-banner-v2.jpg" alt="Vegeta Super Saiyajin — perfil de Matteus Oberdan" />
+<img width="100%" src="./assets/vegeta-animated-banner.svg" alt="Vegeta Super Saiyajin — perfil de Matteus Oberdan" />
 
 # 🐉 Olá, eu sou o Matteus!
 
