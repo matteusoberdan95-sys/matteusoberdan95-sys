@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/vegeta-animated-banner.svg" alt="Vegeta Super Saiyajin — perfil de Matteus Oberdan" />
+<img width="100%" src="./assets/goku-vs-vegeta-animated.svg" alt="Goku contra Vegeta — confronto clássico animado" />
 
 # 🐉 Olá, eu sou o Matteus!
 
