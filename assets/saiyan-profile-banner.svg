@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Matteus Oberdan, desenvolvedor .NET">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".48" stop-color="#102b55"/><stop offset="1" stop-color="#f97316"/></linearGradient>
+<radialGradient id="aura"><stop stop-color="#fff7b2" stop-opacity=".95"/><stop offset=".28" stop-color="#ffd43b" stop-opacity=".8"/><stop offset=".68" stop-color="#ff7a00" stop-opacity=".28"/><stop offset="1" stop-color="#ff7a00" stop-opacity="0"/></radialGradient>
+<radialGradient id="ball"><stop offset="0" stop-color="#fff0a1"/><stop offset=".3" stop-color="#ffbd22"/><stop offset=".78" stop-color="#f97316"/><stop offset="1" stop-color="#b83a05"/></radialGradient>
+<linearGradient id="ground" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0b3152"/><stop offset="1" stop-color="#030712"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="11" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="shadow"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-opacity=".6"/></filter>
+<pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M45 0H0V45" fill="none" stroke="#60a5fa" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#sky)"/><rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+<circle cx="965" cy="178" r="235" fill="url(#aura)" filter="url(#glow)"/>
+<path d="M0 330 145 215l93 79 118-135 139 161 113-99 104 98 102-104 95 91 94-82 117 98v98H0Z" fill="url(#ground)" opacity=".96"/>
+<path d="M0 354c150-35 254 42 402 2 148-39 275 40 421-4 155-47 249 23 377-7v75H0Z" fill="#020617" opacity=".82"/>
+<g filter="url(#shadow)"><text x="74" y="112" fill="#fbbf24" font-family="Arial Black,Arial,sans-serif" font-size="25" letter-spacing="8">FULL STACK WARRIOR</text><text x="68" y="190" fill="white" font-family="Arial Black,Arial,sans-serif" font-size="62">MATTEUS</text><text x="68" y="251" fill="white" font-family="Arial Black,Arial,sans-serif" font-size="62">OBERDAN</text><rect x="70" y="276" width="460" height="4" rx="2" fill="#f59e0b"/><text x="72" y="318" fill="#bfdbfe" font-family="Arial,sans-serif" font-weight="700" font-size="23">C#  •  .NET  •  POSTGRESQL  •  DOCKER</text></g>
+<g transform="translate(860 78)" filter="url(#glow)"><path d="M104 0 75 84 0 48l54 72-81 27 92 9-37 83 71-57 39 81 2-92 91 19-78-50 62-68-86 35Z" fill="#fbbf24" opacity=".42"/><path d="M105 35 88 93 41 73l34 48-52 18 59 4-24 57 46-39 25 55 1-62 58 13-50-34 40-46-55 24Z" fill="#fff7c2" opacity=".7"/></g>
+<g><circle cx="805" cy="344" r="23" fill="url(#ball)"/><text x="799" y="351" font-family="Arial" font-size="23" font-weight="bold" fill="#b91c1c">★</text><circle cx="862" cy="354" r="23" fill="url(#ball)"/><text x="849" y="361" font-family="Arial" font-size="21" font-weight="bold" fill="#b91c1c">★★</text><circle cx="919" cy="344" r="23" fill="url(#ball)"/><text x="900" y="351" font-family="Arial" font-size="17" font-weight="bold" fill="#b91c1c">★★★</text><circle cx="976" cy="354" r="23" fill="url(#ball)"/><text x="959" y="361" font-family="Arial" font-size="13" font-weight="bold" fill="#b91c1c">★★★★</text><circle cx="1033" cy="344" r="23" fill="url(#ball)"/><text x="1015" y="351" font-family="Arial" font-size="11" font-weight="bold" fill="#b91c1c">★★★★★</text><circle cx="1090" cy="354" r="23" fill="url(#ball)"/><text x="1071" y="361" font-family="Arial" font-size="9" font-weight="bold" fill="#b91c1c">★★★★★★</text><circle cx="1147" cy="344" r="23" fill="url(#ball)"/><text x="1127" y="351" font-family="Arial" font-size="8" font-weight="bold" fill="#b91c1c">★★★★★★★</text></g>
+<rect x="2" y="2" width="1196" height="416" rx="22" fill="none" stroke="#f59e0b" stroke-width="4" stroke-opacity=".7"/>
+</svg>
