@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/saiyan-profile-banner.svg" alt="Matteus Oberdan — Full Stack Warrior" />
+<img width="100%" src="./assets/vegeta-super-saiyan-banner.png" alt="Vegeta Super Saiyajin — perfil de Matteus Oberdan" />
 
 # 🐉 Olá, eu sou o Matteus!
 
