@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=MATTEUS%20OBERDAN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20.NET%20%7C%20Evoluindo%20um%20nível%20por%20commit&descAlignY=58&descSize=17" />
+<img width="100%" src="./assets/saiyan-profile-banner.svg" alt="Matteus Oberdan — Full Stack Warrior" />
 
 # 🐉 Olá, eu sou o Matteus!
 
@@ -14,6 +14,8 @@
 
 ---
 
+<img width="100%" src="./assets/dragon-divider.svg" alt="" />
+
 ## 🥋 Sobre este guerreiro
 
 - 🔥 Desenvolvedor **Full Stack**, especializado em **C# e .NET**
@@ -22,6 +24,8 @@
 - 🎨 Construindo interfaces com **Razor Pages, HTML, CSS e Bootstrap**
 - 🧠 Sempre estudando arquitetura, segurança, testes e boas práticas
 - 🚀 Elevando o nível de poder a cada novo desafio
+
+<img width="100%" src="./assets/dragon-divider.svg" alt="" />
 
 ## ⚡ Técnicas dominadas
 
@@ -51,6 +55,8 @@
 
 </div>
 
+<img width="100%" src="./assets/dragon-divider.svg" alt="" />
+
 ## 📡 Scouter — nível de poder no GitHub
 
 <div align="center">
@@ -63,6 +69,8 @@
 ![Visualizações](https://komarev.com/ghpvc/?username=matteusoberdan95-sys&color=f59e0b&style=for-the-badge&label=LEITURAS+DO+SCOUTER)
 
 </div>
+
+<img width="100%" src="./assets/dragon-divider.svg" alt="" />
 
 ## 🐲 Onde me encontrar
 
@@ -82,6 +90,6 @@
 
 **Obrigado por visitar meu universo!** 🐉
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
+<img width="100%" src="./assets/dragon-divider.svg" alt="" />
 
 </div>
